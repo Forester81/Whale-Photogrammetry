@@ -1,12 +1,12 @@
 # Whale-Photogrammetry
 Whale photogrammetry processing software for extracting scale morphometric attributes from baleen whale imagery
 
-Updated: 11/17/2019
+Updated: 12/08/19
 
-Notes:
-Working on compiling the Matlab components of this software. R (post) processing software is currently being distributed via this Github repository.
+Pre Processing Summary (Whale Measurement):
+Navigate to this location to download the pre-processing software for scaling object and whale measurement:  https://oregonstate.app.box.com/s/tmiqgabvncoqvzi04a0imc2frs6307mj
 
-Summary:
+Post Processing Summary (Measurement Analysis):
 Whale_Calibration_Object_Measurement.m and Whale_Measurements.m are the main programs
 
 use Whale_Calibration_Object_Measurement.m for compiling information about validation and training objects for calibration
